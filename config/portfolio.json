@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "ticker": "YDEX",
+            "quantity": 10,
+            "purchase_price": 2800.0,
+            "purchase_date": "2024-10-10"
+        },
+        {
+            "ticker": "Gold",
+            "quantity": 1,
+            "purchase_price": 8449.11,
+            "purchase_date": "2025-07-04"
+        },
+        {
+            "ticker": "GAZP",
+            "quantity": 20.0,
+            "purchase_price": 132.99,
+            "purchase_date": "2025-01-14"
+        },
+        {
+            "ticker": "GAZP",
+            "quantity": 10.0,
+            "purchase_price": 124.02,
+            "purchase_date": "2025-07-07"
+        }
+    ]
+}

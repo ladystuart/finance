@@ -1,0 +1,12 @@
+{
+    "forecast_defaults": {
+        "Stock": {
+            "regression_days": 9,
+            "lstm_days": 20
+        },
+        "Metal": {
+            "regression_days": 8,
+            "lstm_days": 15
+        }
+    }
+}

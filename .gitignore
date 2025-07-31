@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+
+# IDE configurations
+.idea/
+
+# Cached files
+__pycache__/ 
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Other temporary files
+workspace.xml
+
+# PyInstaller configuration file
+main.spec
+
+# Installer file
+*.exe
